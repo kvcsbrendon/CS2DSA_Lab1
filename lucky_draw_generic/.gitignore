@@ -1,0 +1,13 @@
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+target/
+*.class
+
+# Maven or Gradle temporary directories (if applicable)
+/target/
+/build/
